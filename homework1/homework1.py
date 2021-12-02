@@ -38,5 +38,4 @@ byte_string = b"\316\273"
 print(byte_string.decode())
 
 # Write a code to return True if cost is greater than 500$
-example_string5 = "It cost me 1000.00$"
-
+example_string5 = "It cost me 1000
